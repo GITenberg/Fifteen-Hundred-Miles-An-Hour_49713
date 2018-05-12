@@ -1,15 +1,21 @@
 _repo: Fifteen-Hundred-Miles-An-Hour_49713
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Layard, Arthur
     gutenberg_agent_id: '45504'
     url: http://www.gutenberg.org/2009/agents/45504
+covers:
+- cover_type: archival
+  image_path: 49713-h/images/cover.jpg
 creator:
   author:
     agent_name: Dixon, Charles
     gutenberg_agent_id: '43590'
     url: http://www.gutenberg.org/2009/agents/43590
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49713#Fifteen-Hundred-Miles-An-Hour
 gutenberg_issued: '2015-08-16'
 gutenberg_type: Text
 identifiers:
